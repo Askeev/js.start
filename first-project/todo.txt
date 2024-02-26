@@ -1,2 +1,2 @@
-1 git add status
+Пройти пару тем по Git.
 
